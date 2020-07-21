@@ -1,2 +1,2 @@
 # Pandas
-In this repository, All the function are execute
+In this repository, All the function are execute.
